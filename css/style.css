@@ -9,5 +9,12 @@ p {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
+}
 
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
