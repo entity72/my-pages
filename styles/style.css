@@ -1,3 +1,13 @@
-body{
+body {
     background: #ffa5a5;
+}
+
+p {
+    /* font-family: Bradley Hand, cursive; */
+    font-size: 100px;
+    text-align: center;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+
 }
